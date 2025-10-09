@@ -5,3 +5,4 @@ numpy
 opencv-python
 joblib
 pillow
+libgl1
