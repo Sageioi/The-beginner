@@ -2,6 +2,6 @@ streamlit
 pandas
 scikit-learn
 numpy
-cv2
+opencv-python
 joblib
-PIL
+pillow
