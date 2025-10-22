@@ -2,8 +2,9 @@ streamlit
 pandas
 scikit-learn
 numpy
-opencv-python-headless
+opencv-python-headless==4.11.0.86
 joblib
 pillow
+
 
 
