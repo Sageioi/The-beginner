@@ -1,7 +1,6 @@
 import streamlit as st
 from sklearn.tree import DecisionTreeClassifier
 
-st.image(r"C:\Users\USER\OneDrive\Pictures\tega.png.jpg",width=200)
 st.title("Credit risk scoring model for Enterprises")
 st.subheader("This model can predict nearly accurately the tendency of the user to default on payment of credit")
 ## A Basic Credit Scoring Model
@@ -47,6 +46,7 @@ if button:
     else :
         st.warning("User is likely to default.")
         st.warning(f"User's credibility score is low")
+
 
 
 
